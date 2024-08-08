@@ -40,14 +40,59 @@ Sheet Name: BlinkIT Grocery Data
 - Sales: The sales amount of the item.
 - Rating: Customer rating for the item.
 
+## Data Processing
+- Calculations: The dashboard includes calculated fields such as total profit, which is 
+   derived using DAX queries.
+- Visualization: Various charts and slicers are used to present the data in an intuitive and 
+    interactive manner.
 
 ## Steps followed 
  - Step 1 : Load data into PowerBI Desktop , dataset is an XLSX Worksheet (.xlsx).
  - Step 2 : Cleaning the dataset 
- - 
+ - Step 3 : Build insights for the dataset 
 ## Dashboard Insights 
+
 The Power BI dashboard created using this dataset provides the following insights:
 
+-  Create a new table in the dataset abd give the name eg: Metrics  and create some columns : 
+   Total sales , Avg sales ,No. of items , Avg ratings
+
+- Use card new visual and create a cards for (Total sales , Avg sales , no. of items , Avg 
+    ratings ).
+
+- Create a doughnut chart for Fat Content clolumn where in values drop metrics table which 
+    you created by Dax query  , and in legend drop Item Fat Content column.
+
+- Create a clustered bar chart  for Fat by outlet where in x - axis : Metrics , y - axis = outlet location type .
+- Create a stacked bar chart for itrm type clolumn , where : x-axis - metrics table , y-axis 
+   item type
+- Create a line chart  for outlet establishment  , where - x-axis :- outlet establishment , y-axis : total-sales
+  
+- Create a doughnut chart for outlet size : medium, small, high
+  in legend - outlet size , values total sales.
+  
+- Create a funnel chart  for outlet location , where cateogry - outlet location type , values - sum of values
+- Create matrix chart for outlet type  where rows: outlet type , columns - values :- total 
+  sales , no. of items , abg sales , avg rating , item visibility .
+- create a slicer for outlet location type , outlet size, item type  and created it on the 
+  blinkit banner .
+  
+### Measure new data 
+
+- Total Sales find
+- Average Sales
+- No. of items
+- Average Rating 
+
+## Usage
+- Open the BlinkIT Grocery Data.xlsx file in Power BI.
+- Load the data from the "BlinkIT Grocery Data" sheet.
+- Use the fields and calculated measures to create visualizations as described above.
+- Interact with the dashboard by using filters and slicers to explore different aspects of 
+   the data.
 
 
-
+📈 
+📊
+🍩
+🗺️
