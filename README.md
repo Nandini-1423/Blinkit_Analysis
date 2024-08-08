@@ -20,10 +20,10 @@ Sheet Name: BlinkIT Grocery Data
 
 
 ## Highlights
-📈 The dashboard includes interactive filters and dynamic visuals to explore sales performance, customer satisfaction, inventory distribution, and outlet performance.
-📊 Key Performance Indicators (KPIs) are calculated for total sales, average sales, number of items, and average ratings.
-🍩 Donut charts are used to analyze sales by fat content, while bar charts visualize sales by item type.
-🗺️ The dashboard uses line charts to track outlet establishment performance, matrix cards for Outlet size and location analysis, and a matrix to analyze Outlet type.
+- 📈 The dashboard includes interactive filters and dynamic visuals to explore sales performance, customer satisfaction, inventory distribution, and outlet performance.
+- 📊 Key Performance Indicators (KPIs) are calculated for total sales, average sales, number of items, and average ratings.
+- 🍩 Donut charts are used to analyze sales by fat content, while bar charts visualize sales by item type.
+- 🗺️ The dashboard uses line charts to track outlet establishment performance, matrix cards for Outlet size and location analysis, and a matrix to analyze Outlet type.
 
 ## Data Dictionary
 ### Columns
