@@ -1,6 +1,6 @@
 # Blinkit_Analysis_Dashboard
 
-### Dashboard Link :
+### Dashboard Link :  https://github.com/Nandini-1423/Blinkit_Analysis/blob/main/blinkit_dashboard.pbix
 
 
 ## Problem Statement
